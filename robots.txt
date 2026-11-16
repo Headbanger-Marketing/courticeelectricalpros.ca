@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://courticeelectricalpros.ca/sitemap-index.xml
